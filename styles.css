@@ -1,0 +1,26 @@
+body {
+    font-family: "Arial";
+    background-color: #C0C0C0;
+}
+
+.header1 {
+    text-align: center;
+    color: #C0C0C0;
+    background-color: #ffd900;
+}
+
+.image-etchebest{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #ffd900;
+}
+
+h2 {
+    text-align: center;
+    color:#ffd900;
+}
+
+ul {
+    text-align: center;
+}
